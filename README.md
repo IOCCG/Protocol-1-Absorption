@@ -38,4 +38,4 @@ Report of a NASA-sponsored workshop chaired by Aimee R. Neeley with contribution
 - Michael Twardowski, Harbor Branch Oceanographic Institute, FL, USA
 - J. Ronald V. Zaneveld, Oregon State University, Corvallis, OR, USA
 
-©2018 IOCCG
+©IOCCG 2018
